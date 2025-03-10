@@ -16,7 +16,7 @@ from pptx.util import Inches
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # Configure Gemini AI
-genai.configure(api_key="AIzaSyCCZ4KxaJ2JrDv1PL7n1_2rU_iq-4BB_7g")
+genai.configure(api_key="")
 model = genai.GenerativeModel("gemini-2.0-flash-lite")
 
 # Streamlit UI Configuration
