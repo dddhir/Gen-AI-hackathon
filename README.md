@@ -1,1 +1,1 @@
-# Gen-AI-hackathon AI powered Financial Decoder
+# Gen-AI-hackathon: AI powered Financial Decoder
