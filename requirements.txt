@@ -1,0 +1,10 @@
+streamlit  
+google-generativeai  
+pandas  
+numpy  
+matplotlib  
+plotly  
+openpyxl  
+requests     
+pypdf  
+pdfplumber  
